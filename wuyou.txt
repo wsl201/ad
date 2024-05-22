@@ -1,7 +1,7 @@
 [
 {"name": "🎶超级MV","url": "https://cloud.lxweb.cn/f/eNb1Ua/%E6%AD%8C%E6%9B%B2%E5%B9%BF%E5%9C%BA%E8%88%9E.txt"},
 {"name":"👙魅惑少女","url":"https://cloud.lxweb.cn/f/bGxASp/%E5%87%BA%E9%95%9C%E5%B0%91%E5%A5%B3.txt"},
-{"name":"🩳绅士辅导","url":"https://cloud.lxweb.cn/f/GdpAsg/%E4%B8%87%E8%83%BD%E9%92%A5%E5%8C%99.txt&&&https://api.vvhan.com/api/girl"},
+{"name":"🩳绅士辅导","url":"https://cloud.lxweb.cn/f/GdpAsg/%E4%B8%87%E8%83%BD%E9%92%A5%E5%8C%99.txt"},
 {"name":"🛀🏻快车资源","url":"https://cloud.lxweb.cn/f/rWJ1hE/%E5%BF%AB%E8%BD%A6%E8%B5%84%E6%BA%90.txt"},
 {"name":"🤷‍♀️羽龑专线","url":"https://cloud.lxweb.cn/f/xzL8iM/%E7%BE%BD%E9%BE%91%E4%B8%93%E7%BA%BF.txt"},
 {"name":"🩱影视界源","url":"https://cloud.lxweb.cn/f/LQpksD/%E5%BD%B1%E8%A7%86%E7%95%8C%E6%BA%90.txt"},
