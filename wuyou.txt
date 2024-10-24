@@ -1,12 +1,12 @@
 [
-{"name": "🎶超级MV","url": "https://www.gitlink.org.cn/api/wsl201/ad/raw/live%2F歌曲广场舞.txt?ref=main"},
-{"name":"👙魅惑少女","url":"https://www.gitlink.org.cn/api/wsl201/ad/raw/live%2F出镜少女.txt?ref=main"},
-{"name":"🩳绅士辅导","url":"https://www.gitlink.org.cn/api/wsl201/ad/raw/live%2F万能钥匙.txt?ref=main"},
-{"name":"🛀🏻快车资源","url":"https://www.gitlink.org.cn/api/wsl201/ad/raw/live%2F快车资源.txt?ref=main"},
-{"name":"🤷‍♀️羽龑专线","url":"https://www.gitlink.org.cn/api/wsl201/ad/raw/live%2F羽龑专线.txt?ref=main"},
-{"name":"🩱影视界源","url":"https://www.gitlink.org.cn/api/wsl201/ad/raw/live%2F影视界源.txt?ref=main"},
-{"name":"🥻浮力湾湾","url":"https://www.gitlink.org.cn/api/wsl201/ad/raw/live%2F湾湾一天.txt?ref=main"},
-{"name":"🌊加勒比嗨","url":"https://www.gitlink.org.cn/api/wsl201/ad/raw/live%2F福利来了.txt?ref=main"},
-{"name":"🌆深夜互搏","url":"https://www.gitlink.org.cn/api/wsl201/ad/raw/live%2F午夜频道.txt?ref=main"},
-{"name":"🐺狼人猎奇","url":"https://www.gitlink.org.cn/api/wsl201/ad/raw/live%2F绿茶直播.json?ref=main"}
+{"name": "🎶超级MV","url": "https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/歌曲广场舞.txt"},
+{"name":"👙魅惑少女","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/出镜少女.txt"},
+{"name":"🩳绅士辅导","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/万能钥匙.txt"},
+{"name":"🛀🏻快车资源","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/快车资源.txt"},
+{"name":"🤷‍♀️羽龑专线","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/羽龑专线.txt"},
+{"name":"🩱影视界源","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/影视界源.txt"},
+{"name":"🥻浮力湾湾","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/湾湾一天.txt"},
+{"name":"🌊加勒比嗨","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/福利来了.txt"},
+{"name":"🌆深夜互搏","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/午夜频道.txt"},
+{"name":"🐺狼人猎奇","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/绿茶直播.json"}
 ]
