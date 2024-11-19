@@ -1,17 +1,17 @@
 {
 "spider":"https://gitee.com/wsl201/box/raw/main/hh/wsl/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
   "lives":[
-{"name":"👙魅惑少女","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/出镜少女.txt"},
-{"name":"🩳绅士辅导","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/万能钥匙.txt"},
-{"name":"🛀🏻快车资源","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/快车资源.txt"},
-{"name":"🤷‍♀️羽龑专线","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/羽龑专线.txt"},
-{"name":"🩱影视界源","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/影视界源.txt"},
-{"name":"🥻浮力湾湾","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/湾湾一天.txt"},
-{"name":"🌊加勒比嗨","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/福利来了.txt"},
-{"name":"🌆深夜互搏","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/午夜频道.txt"},
-{"name":"🐺狼人猎奇","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/绿茶直播.json"},
-{"name":"live","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/adult.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"live2","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://cdn09022024.gitlink.org.cn/wsl201/ad/raw/branch/main/live/Fadult-2.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"👙魅惑少女","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/ad@main/live/出镜少女.txt"},
+{"name":"🩳绅士辅导","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/ad@main/live/万能钥匙.txt"},
+{"name":"🛀🏻快车资源","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/ad@main/live/快车资源.txt"},
+{"name":"🤷‍♀️羽龑专线","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/ad@main/live/羽龑专线.txt"},
+{"name":"🩱影视界源","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/ad@main/live/影视界源.txt"},
+{"name":"🥻浮力湾湾","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/ad@main/live/湾湾一天.txt"},
+{"name":"🌊加勒比嗨","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/ad@main/live/福利来了.txt"},
+{"name":"🌆深夜互搏","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/ad@main/live/午夜频道.txt"},
+{"name":"🐺狼人猎奇","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/ad@main/live/绿茶直播.json"},
+{"name":"live","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/ad@main/live/adult.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"live2","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/ad@main/live/adult-2.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
   "sites": [
 {"key":"drpy_js_豆瓣","name":"🐼┃豆瓣┃推荐┃SP","type":3,"api":"csp_Douban","searchable":0},
