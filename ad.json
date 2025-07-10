@@ -1,5 +1,6 @@
 {
 "spider":"https://gitee.com/wsl201/box/raw/main/hh/wsl/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+	"logo": "https://gitee.com/wsl201/box/raw/main/lyf/logo/fire.gif",
   "lives":[
 {"name":"👙魅惑少女","type":0,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/ad@main/live/出镜少女.txt"},
 {"name":"🩳绅士辅导","type":0,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/ad@main/live/万能钥匙.txt"},
