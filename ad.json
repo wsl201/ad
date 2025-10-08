@@ -365,6 +365,105 @@
 			"categories": ["AV解说", "日本无码", "中文字幕", "日本有码", "黑丝诱惑", "cosplay", "SWAG", "激情动漫", "自拍偷拍", "网红主播", "探花系列", "三级伦理", "VR视角", "国产传媒", "素人搭讪", "门事件", "抖阴视频"]
 		},
 		{
+			"key": "91shipin",
+			"name": "91视频-18+",
+			"api": "https://91av.cyou/api.php/provkeye/vod/",
+			"type": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "danaiziziyuan",
+			"name": "大奶子资源-18+",
+			"api": "https://apkeyanaizi.com/api.php/provkeye/vod",
+			"type": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "baihuaziyuan",
+			"name": "百花资源-18+",
+			"api": "https://bhziyuan.com/api.php/provkeye/vod/at/xml",
+			"type": 0,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "youyiziyuan",
+			"name": "优异资源-18+",
+			"api": "https://a.uezy.pw/api.php/provkeye/vod/",
+			"type": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "xingbaziyuan",
+			"name": "杏吧资源-18+",
+			"api": "https://xingba222.com/api.php/provkeye/vod/at/xml",
+			"type": 0,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "shileyuan",
+			"name": "湿乐园-18+",
+			"api": "https://xxavs.com/api.php/provkeye/vod/",
+			"type": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "fanjiaziyuan",
+			"name": "番茄资源-18+",
+			"api": "https://fqzy4.me/api.php/provkeye/vod/at/xml",
+			"type": 0,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "huangguaziyuan",
+			"name": "黄瓜资源-18+",
+			"api": "https://www.avre06.com/api.php/provkeye/vod",
+			"type": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "91md18+",
+			"name": "91麻豆-18+",
+			"api": "http://91md.me/api.php/provkeye/vod",
+			"type": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "wukongzyz",
+			"name": "悟空资源-18+",
+			"api": "https://wukongzyz.com/api.php/provkeye/vod",
+			"type": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "xzybb1",
+			"name": "幸资源站-18+",
+			"api": "https://xzybb1.com/api.php/provkeye/vod",
+			"type": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key": "xml_zy_快播无码",
 			"name": "  ☀┃快播无码┃资源",
 			"type": 0,
@@ -373,9 +472,9 @@
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 1,
-			"categories": ["解说类","日本无码", "中文有码", "明星换脸", "欧美无码","SM调教", "黑人无码","国产视频","萝莉少女","网红主播","探花约炮","传媒拍摄","伦理三级","网曝黑料","激情动漫","VR视角","人妖系列", "人兽大战", "女同性爱", "重口猎奇"]
+			"categories": ["解说类", "日本无码", "中文有码", "明星换脸", "欧美无码", "SM调教", "黑人无码", "国产视频", "萝莉少女", "网红主播", "探花约炮", "传媒拍摄", "伦理三级", "网曝黑料", "激情动漫", "VR视角", "人妖系列", "人兽大战", "女同性爱", "重口猎奇"]
 		},
-                                {
+		{
 			"key": "bwzyz",
 			"name": "AV-百万资源",
 			"type": 1,
@@ -386,7 +485,7 @@
 			"ext": "https://api.bwzyz.com",
 			"timeout": 30
 		},
-                                {
+		{
 			"key": "91md",
 			"name": "AV-91麻豆",
 			"type": 1,
@@ -636,7 +735,7 @@
 			"filterable": 1,
 			"ext": "",
 			"timeout": 30
-		},{
+		}, {
 			"key": "xxibaozyw",
 			"name": "细胞采集黄色",
 			"type": 1,
@@ -646,7 +745,7 @@
 			"filterable": 1,
 			"ext": "",
 			"timeout": 30
-		},  {
+		}, {
 			"key": "qiqidys",
 			"name": "七七影视",
 			"type": 1,
@@ -676,7 +775,7 @@
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 1,
-			"categories": ["AV解说","无码专区", "中文字幕", "AI换脸", "美乳巨乳","多人群交","强奸乱伦","欧美无码","欧美系列","SM调教", "女优明星","麻豆传媒","萝莉少女","韩国主播","美女主播","国产自拍","传媒拍摄","三级伦理","网曝黑料","网曝黑料","网红头条","制服诱惑","卡通漫画", "熟女人妻", "女同性爱", "抖音视频"]
+			"categories": ["AV解说", "无码专区", "中文字幕", "AI换脸", "美乳巨乳", "多人群交", "强奸乱伦", "欧美无码", "欧美系列", "SM调教", "女优明星", "麻豆传媒", "萝莉少女", "韩国主播", "美女主播", "国产自拍", "传媒拍摄", "三级伦理", "网曝黑料", "网曝黑料", "网红头条", "制服诱惑", "卡通漫画", "熟女人妻", "女同性爱", "抖音视频"]
 		},
 		{
 			"key": "开云",
