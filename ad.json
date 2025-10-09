@@ -367,7 +367,7 @@
 		{
 			"key": "91shipin",
 			"name": "91视频-18+",
-			"api": "https://91av.cyou/api.php/provkeye/vod/",
+			"api": "https://91av.cyou/api.php/provide/vod/",
 			"type": 1,
 			"searchable": 1,
 			"quickSearch": 1,
@@ -376,7 +376,7 @@
 		{
 			"key": "danaiziziyuan",
 			"name": "大奶子资源-18+",
-			"api": "https://apkeyanaizi.com/api.php/provkeye/vod",
+			"api": "https://apkeyanaizi.com/api.php/provide/vod",
 			"type": 1,
 			"searchable": 1,
 			"quickSearch": 1,
@@ -385,7 +385,7 @@
 		{
 			"key": "baihuaziyuan",
 			"name": "百花资源-18+",
-			"api": "https://bhziyuan.com/api.php/provkeye/vod/at/xml",
+			"api": "https://bhziyuan.com/api.php/provide/vod/at/xml",
 			"type": 0,
 			"searchable": 1,
 			"quickSearch": 1,
@@ -394,7 +394,7 @@
 		{
 			"key": "youyiziyuan",
 			"name": "优异资源-18+",
-			"api": "https://a.uezy.pw/api.php/provkeye/vod/",
+			"api": "https://a.uezy.pw/api.php/provide/vod/",
 			"type": 1,
 			"searchable": 1,
 			"quickSearch": 1,
@@ -403,7 +403,7 @@
 		{
 			"key": "xingbaziyuan",
 			"name": "杏吧资源-18+",
-			"api": "https://xingba222.com/api.php/provkeye/vod/at/xml",
+			"api": "https://xingba222.com/api.php/provide/vod/at/xml",
 			"type": 0,
 			"searchable": 1,
 			"quickSearch": 1,
@@ -412,7 +412,7 @@
 		{
 			"key": "shileyuan",
 			"name": "湿乐园-18+",
-			"api": "https://xxavs.com/api.php/provkeye/vod/",
+			"api": "https://xxavs.com/api.php/provide/vod/",
 			"type": 1,
 			"searchable": 1,
 			"quickSearch": 1,
@@ -421,7 +421,7 @@
 		{
 			"key": "fanjiaziyuan",
 			"name": "番茄资源-18+",
-			"api": "https://fqzy4.me/api.php/provkeye/vod/at/xml",
+			"api": "https://fqzy4.me/api.php/provide/vod/at/xml",
 			"type": 0,
 			"searchable": 1,
 			"quickSearch": 1,
@@ -430,7 +430,7 @@
 		{
 			"key": "huangguaziyuan",
 			"name": "黄瓜资源-18+",
-			"api": "https://www.avre06.com/api.php/provkeye/vod",
+			"api": "https://www.avre06.com/api.php/provide/vod",
 			"type": 1,
 			"searchable": 1,
 			"quickSearch": 1,
@@ -439,7 +439,7 @@
 		{
 			"key": "91md18+",
 			"name": "91麻豆-18+",
-			"api": "http://91md.me/api.php/provkeye/vod",
+			"api": "http://91md.me/api.php/provide/vod",
 			"type": 1,
 			"searchable": 1,
 			"quickSearch": 1,
@@ -448,7 +448,7 @@
 		{
 			"key": "wukongzyz",
 			"name": "悟空资源-18+",
-			"api": "https://wukongzyz.com/api.php/provkeye/vod",
+			"api": "https://wukongzyz.com/api.php/provide/vod",
 			"type": 1,
 			"searchable": 1,
 			"quickSearch": 1,
@@ -457,7 +457,7 @@
 		{
 			"key": "xzybb1",
 			"name": "幸资源站-18+",
-			"api": "https://xzybb1.com/api.php/provkeye/vod",
+			"api": "https://xzybb1.com/api.php/provide/vod",
 			"type": 1,
 			"searchable": 1,
 			"quickSearch": 1,
