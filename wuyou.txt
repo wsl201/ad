@@ -1,4 +1,6 @@
 [
+{"name": "adult","url": "https://fastly.jsdelivr.net/gh/wsl201/ad@main/live/adult.txt"},
+{"name": "adult-2","url": "https://fastly.jsdelivr.net/gh/wsl201/ad@main/live/adult-2.txt"},
 {"name": "🎶超级MV","url": "https://fastly.jsdelivr.net/gh/wsl201/ad@main/live/歌曲广场舞.txt"},
 {"name":"👙魅惑少女","url":"https://fastly.jsdelivr.net/gh/wsl201/ad@main/live/出镜少女.txt"},
 {"name":"🩳绅士辅导","url":"https://fastly.jsdelivr.net/gh/wsl201/ad@main/live/万能钥匙.txt"},
