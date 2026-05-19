@@ -318,6 +318,26 @@
 			"categories": ["AV解说", "日本无码", "中文字幕", "日本有码", "黑丝诱惑", "cosplay", "SWAG", "激情动漫", "自拍偷拍", "网红主播", "探花系列", "三级伦理", "VR视角", "国产传媒", "素人搭讪", "门事件", "抖阴视频"]
 		},
 		{
+			"key": "AV-CK",
+			"name": "🥇CK百货",
+			"type": 0,
+			"api": "https://ckbh1.xyz/api.php/provide/vod/at/xml/",
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "AV-桃花",
+			"name": "🌸桃花岛",
+			"type": 0,
+			"api": "https://thzy1.me/api.php/provide/vod/at/xml/",
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key": "91shipin",
 			"name": "91视频-18+",
 			"api": "https://91av.cyou/api.php/provide/vod/",
@@ -374,7 +394,7 @@
 		{
 			"key": "fanjiaziyuan",
 			"name": "番茄资源-18+",
-			"api": "https://fqzy4.me/api.php/provide/vod/at/xml",
+			"api": "https://fqzy.me//api.php/provide/vod/at/xml",
 			"type": 0,
 			"searchable": 1,
 			"quickSearch": 1,
