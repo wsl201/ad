@@ -2,6 +2,10 @@
 	"spider": "https://gitee.com/wsl201/oktv/raw/main/box/jar/PandaQ0715.jpg;md5;59185e76c5cf42b7a5465fbd2c15af06",
 	"logo": "https://gitee.com/wsl201/oktv/raw/main/Sign/logo/fire.gif",
 	"lives": [{
+			"name": " 🐼猫直播",
+			"url": "http://rihou.cc:567/gggg.nzk"
+		},
+		{
 			"name": "👙魅惑少女",
 			"type": 0,
 			"ua": "okhttp/3.15",
