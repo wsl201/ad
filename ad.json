@@ -388,6 +388,16 @@
 			"filterable": 1
 		},
 		{
+			"key": "18+幸",
+			"name": "🍀幸",
+			"type": 0,
+			"api": "https://xzybb1.com/api.php/provide/vod/at/xml",
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key": "18+桃花",
 			"name": "🌸桃花",
 			"type": 0,
