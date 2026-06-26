@@ -1,19 +1,5 @@
 {
     "urls": [
-	{"url": "https://fastly.jsdelivr.net/gh/wsl201/ad@main/A.txt","name": "🍵绿茶影院A"},
-        	{"url": "https://fastly.jsdelivr.net/gh/wsl201/ad@main/A1.txt","name": "   🍰蛋糕影院A1"},
-        	{"url": "https://fastly.jsdelivr.net/gh/wsl201/ad@main/ad.json","name": " 🍮奶黄影院ad"},
-	{"url": "https://huhujunxx.neocities.org/AV.json","name": "🈚Huhujun线路"},
-        	{"url":"https://ghproxy.net/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json","name":"🔞二哈社区(H)"},
-	{"url":"https://mpimg.cn/down.php/71619663801190a09db627d591cd5cad.msll&e4f28a49643fedf735775a7b1ddb567f","name":"🔞18+1"},
-        {"url":"https://mpimg.cn/down.php/2008aed3ab6045d4a01571793abc1298.msll&e4f28a49643fedf735775a7b1ddb567f","name":"🔞18+2"},
-        {"url":"https://mpimg.cn/down.php/d10a1024265ba7d1a8573715c23cf647.msll&e4f28a49643fedf735775a7b1ddb567f","name":"🔞18+3"},
-        {"url": "https://files.cnblogs.com/files/johnjackson/tvbox.json","name": "🔞johnjackson"},
-		{"url": "https://download.kstore.space/download/2883/PY/0902mystv.txt","name": "🐜蚂蚁论坛"},
-		{"url":"https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/xian/main/hh","name":"🔞XXXXXZ"},
-        {"url":"https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx1","name":"🔞XXX1"},
-        {"url":"https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx2","name":"🔞XXX2"},
-        {"url":"https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx3","name":"🔞XXX3"},
-        {"url":"https://ghproxy.net/https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt","name":"🔞Peter(H)"}
+        	{"url": "https://fastly.jsdelivr.net/gh/wsl201/ad@main/ad.json","name": " 🍮奶黄影院ad"}
     ]
 }
