@@ -687,6 +687,16 @@
 			"filterable": 1
 		},
 		{
+			"key": "18+越南",
+			"name": "🀁越南",
+			"type": 0,
+			"api": "https://api.vnzyz.com/api.php/provide/vod/at/xml",
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key": "18+佳丽",
 			"name": "💃佳丽",
 			"type": 1,
@@ -723,8 +733,7 @@
 			"type": 3,
 			"api": "csp_Push",
 			"searchable": 1,
-			"filterable": 1,
-			"ext": "http://我不是.肥猫.love:63/token.php"
+			"filterable": 1
 		}
 	],
 	"parses": [{
