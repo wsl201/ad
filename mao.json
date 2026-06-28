@@ -1,0 +1,66 @@
+{
+"lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vd3NsMjAxL29rdHYvcmF3L21haW4vaXR2LnR4dA=="
+          ]
+        }
+      ],
+      "epg":"http://epg.51zmt.top:8000/api/diyp/"
+    }
+  ],
+	"sites": [
+		{
+			"key": "xml_zy_暴风",
+			"name": "  🌪┃暴风┃资源",
+			"type": 1,
+			"api": "https://bfzyapi.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"playurl": "https://vip.vipuuvip.com/?url=",
+			"categories": ["国产剧", "国产动漫", "大陆综艺", "AI漫剧", "电影解说", "足球", "篮球", "斯诺克", "网球", "重生民国", "穿越年代", "现代言情", "反转爽文", "女恋总裁", "闪婚离婚", "都市脑洞", "古装仙侠", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "港台综艺", "日韩综艺", "欧美综艺", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫"]
+		},
+		{
+			"key": "xml_zy_OK",
+			"name": "  👌┃OK┃资源",
+			"type": 0,
+			"api": "http://api.okzyw.net/api.php/provide/vod/from/okm3u8/at/xml",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"playurl": "https://jiexi.okzyw.org/m3u8/?url=",
+			"categories": ["国产剧", "国产动漫", "大陆综艺", "科普学习", "有声动漫", "女频恋爱", "反转爽剧", "古装仙侠", "年代穿越", "脑洞悬疑", "擦边短剧", "漫剧", "现代都市", "影视解说", "足球", "篮球", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "Netflix电影", "港剧", "韩剧", "漫剧", "欧美剧", "记录片", "台剧", "日剧", "海外剧", "泰剧", "Netflix自制剧", "港台综艺", "演唱会", "日韩综艺", "欧美综艺", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "写真热舞"]
+		},
+		{
+			"key": "xml_zy_奇艺",
+			"name": "  🥝┃奇艺┃资源",
+			"type": 0,
+			"api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"playurl": "https://www.iqiyizyjx.com/?url=",
+			"categories": ["国产剧", "国产动漫", "大陆综艺", "短剧", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "港台综艺", "日韩综艺", "欧美综艺", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "里番动漫"]
+		},
+		{
+			"key": "xml_zy_电影天堂",
+			"name": " 🎬️┃电影天堂┃资源",
+			"type": 0,
+			"api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/xml/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"playurl": "https://vip.dyttzyplay.com/?url=",
+			"categories": ["国产剧", "国产动漫", "大陆综艺", "短剧", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "香港剧", "韩国剧", "欧美剧", "记录片", "动画片", "台湾剧", "日本剧", "海外剧", "泰国剧", "港台综艺", "日韩综艺", "欧美综艺", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫"]
+		}
+	]
+}
