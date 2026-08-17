@@ -389,6 +389,26 @@
 			"filterable": 1
 		},
 		{
+			"key": "18+嘿嘿",
+			"name": "😁嘿嘿",
+			"type": 1,
+			"api": "https://api.heiapi.cc/api.php/provide/vod/?ac=list",
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "18+红楼",
+			"name": "🏫红楼",
+			"type": 1,
+			"api": "https://www.hlzy.store/api.php/provide/vod/?ac=list",
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key": "18+幸",
 			"name": "🍀幸",
 			"type": 1,
