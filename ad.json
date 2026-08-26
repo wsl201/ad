@@ -409,16 +409,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "18+幸",
-			"name": "🍀幸",
-			"type": 1,
-			"api": "https://xzybb1.com/api.php/provide/vod/?ac=list",
-			"searchable": 1,
-			"changeable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "18+桃花",
 			"name": "🌸桃花",
 			"type": 1,
@@ -433,16 +423,6 @@
 			"name": "9️⃣1️⃣91视频",
 			"type": 1,
 			"api": "https://91av.cyou/api.php/provide/vod/?ac=list",
-			"searchable": 1,
-			"changeable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "18+百花",
-			"name": "🌷百花",
-			"type": 1,
-			"api": "http://www.bhziyuan.com/api.php/provide/vod/?ac=list",
 			"searchable": 1,
 			"changeable": 1,
 			"quickSearch": 1,
@@ -526,7 +506,7 @@
 			"key": "18+鲨鱼",
 			"name": "🦈鲨鱼",
 			"type": 1,
-			"api": "https://shayuapi.com/api.php/provide/vod/at/json/",
+			"api": "https://sybyapi.com/api.php/provide/vod/at/json/",
 			"playurl": "https://shayujx.com/?url=",
 			"searchable": 1,
 			"changeable": 1,
@@ -742,6 +722,26 @@
 			"name": "💃佳丽",
 			"type": 1,
 			"api": "http://www.jializyzapi.com/api.php/provide/vod/",
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "18+幸",
+			"name": "🍀幸",
+			"type": 1,
+			"api": "https://xzybb1.com/api.php/provide/vod/?ac=list",
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "18+百花",
+			"name": "🌷百花",
+			"type": 1,
+			"api": "http://www.bhziyuan.com/api.php/provide/vod/?ac=list",
 			"searchable": 1,
 			"changeable": 1,
 			"quickSearch": 1,
