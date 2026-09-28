@@ -363,7 +363,7 @@
 			"key": "xml_zy_巨量",
 			"name": "  👹┃巨量┃资源",
 			"type": 1,
-			"api": "https://api.juliang.live/api/provide/vod/from/jlm3u8/?ac=list",
+			"api": "https://api.juliang.live/api/provide/vod/?ac=list",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
