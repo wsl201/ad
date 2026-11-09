@@ -389,6 +389,17 @@
 			"categories": ["AV解说", "日本无码", "中文字幕", "日本有码", "黑丝诱惑", "cosplay", "SWAG", "激情动漫", "自拍偷拍", "网红主播", "探花系列", "三级伦理", "VR视角", "国产传媒", "素人搭讪", "门事件", "抖阴视频"]
 		},
 		{
+			"key": "18+AI98",
+			"name": "🧠Ai-98",
+			"type": 1,
+			"api": "https://jp98.vip/api.php/provide/vod/?ac=list",
+			"playurl": "https://jp998.vip/?url=",
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key": "18+CK百货",
 			"name": "🏬CK百货",
 			"type": 1,
